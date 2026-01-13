@@ -1,9 +1,3 @@
-# Sistem Manajemen Bahan Baku untuk Program Makan Bergizi Gratis (SIMA Bahan Baku MBG)
-> Repositori ini dibuat untuk memenuhi penilaian Evaluasi Tengah Semester Ganjil, D-3 Teknik Informatika, Politeknik Negeri Bandung.
-
-## Sekilas Proyek
-Sistem Manajemen Bahan Baku untuk Program Makan Bergizi Gratis (SIMA Bahan Baku MBG) ini bantu tim gudang dan dapur mengelola stok bahan baku plus permintaan menu harian. Targetnya sederhana: dapur bisa ajukan permintaan, gudang bisa review dan update stok tanpa ribet.
-
 ## Fitur Utama
 - **Autentikasi dasar**: login/logout dua role (`gudang` & `dapur`).
 - **Dashboard per role**: ringkasan stok dan permintaan relevan begitu login.
